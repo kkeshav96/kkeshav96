@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kkeshav96
-- 👀 I’m interested in AI/ML and automation of geotechnical applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI/ML
+- 💞️ I’m looking to collaborate on automation of geotechnical applications
 - 📫 kkeshav96@gmail.com 
 
 <!---
